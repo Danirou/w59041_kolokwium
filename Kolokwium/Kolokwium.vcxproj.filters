@@ -18,5 +18,13 @@
     <ClCompile Include="Kolokwium.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Konto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Konto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
